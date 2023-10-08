@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932231218037",
+    "project_id": "medpal-2024a114",
+    "storage_bucket": "medpal-2024a114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932231218037:android:23d35e8c459886dcd3893c",
+        "android_client_info": {
+          "package_name": "com.escomTT.MedPal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBptRu3LH4yOqUASnOHB0BnRUjbLtO2GWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
