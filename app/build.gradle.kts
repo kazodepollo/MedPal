@@ -43,4 +43,6 @@ dependencies {
 
     // TODO: Agregar las dependencias de Firebase a usar
     implementation("com.google.firebase:firebase-analytics-ktx")
+    implementation("com.google.firebase:firebase-auth-ktx")
+    implementation("com.google.firebase:firebase-database-ktx")
 }

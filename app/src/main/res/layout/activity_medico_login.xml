@@ -5,18 +5,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.escomTT.MedPal.MapActivity">
+    tools:context=".MedicoLogin">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="email"
+        android:id="@+id/email"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="password"
+        android:id="@+id/password"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Soy un paciente"
-        android:id="@+id/paciente"/>
+        android:text="Registrate"
+        android:id="@+id/signup"/>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Soy un médico"
-        android:id="@+id/medico"/>
-
+        android:text="Inicia Sesion"
+        android:id="@+id/login"/>
 
 </LinearLayout>
